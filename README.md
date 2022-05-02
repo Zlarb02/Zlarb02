@@ -1,4 +1,4 @@
-### Hi there ! https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gifne 
+### Hi there ! ![image](https://user-images.githubusercontent.com/67369305/166232140-53fb9766-dc26-418a-b4fe-b33bed92c2a0.png)
 🌱 I’m currently learning web devellopement
 👯 I’m looking to collaborate on training or real professional project
 <!--
