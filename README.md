@@ -1,6 +1,5 @@
-### Hi there ! ![image](https://user-images.githubusercontent.com/67369305/166232140-53fb9766-dc26-418a-b4fe-b33bed92c2a0.png)
-🌱 I’m currently learning web devellopement
-👯 I’m looking to collaborate on training or real professional project
+### Hi there ! 😄
+🌱 I’m currently learning web devellopement 
 <!--
 **Zlarb02/Zlarb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
