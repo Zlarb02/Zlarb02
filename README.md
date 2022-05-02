@@ -1,4 +1,4 @@
-### Hi there ! hi
+### Hi there ! I'm Etienne 
 🌱 I’m currently learning web devellopement
 👯 I’m looking to collaborate on training or real professional project
 <!--
